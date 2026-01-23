@@ -3,7 +3,7 @@
     elementFormDefault="qualified"
     targetNamespace="http://www.usaha.org/xmlns/ecvi" 
     version="3.2"
-    xmlns="http://www.usaha.org/xmlns/ecvi2">
+    xmlns="http://www.usaha.org/xmlns/ecvi">
 
     <xs:annotation>
         <xs:documentation>Version 3.2 </xs:documentation>
@@ -80,6 +80,7 @@
             08/28/2024: Added optional CountryOfOrigin element to Animal and GroupLot.
             01/29/2025: Renamed file to ecvi.xsd, updated target namespace to ecvi
             03/26/2025: Split Exhibition/Show/Rodeo movement option into Exhibition/Show and Rodeo separately.
+            01/23/2026: Fix inconsistency between xmlns and targetNamespace.
         </xs:documentation>
     </xs:annotation>
 
