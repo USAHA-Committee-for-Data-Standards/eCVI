@@ -1,42 +1,12 @@
-Co-chairs
+Membership
 ==
-```
-Susan Culp                        sculp@me.com
-Carissa Allen                     carissa.allen@state.mn.us
-Ryan Scholz                       Ryan.SCHOLZ@oda.oregon.gov
-```
 
-Members
-==
-```
-NAME                              EMAIL                                    CATEGORY
+The XML Standards Subcommittee is a subcommittee of the USAHA [Animal Health Surveillance and Information Systems Committee](https://usaha.org/animal-health-surveillance-and-information).
 
-Carissa Allen                     carissa.allen@state.mn.us                State
-Craig Carter                      Craig.carter@uky.edu                     Academic
-Dee Ellis                         dee.ellis@ag.tamu.edu                    CVI Vendor
-Marty Zaluski                     mzaluski@globalvetlink.com               CVI Vendor
-Julie Green                       jmgreen@vt.edu                           Academic
-Justin Smith                      justin.smith@ks.gov                      State
-Michael McGrath                   mmcgrath@tracefirst.com                  DB Vendor
-Mitzy Torres                      mtorres@acclaimsystems.onmicrosoft.com   DB Vendor
-Michael Martin                    michael.martin.dvm.mph@gmail.com         Academic
-Nate Plumm                        nate.d.plumm@aphis.usda.gov              Fed
-Nephi Harvey                      nephi@fort-supply.com                    CVI Vendor
-Patrick Webb                      pwebb@pork.org                           Industry/CVI Vendor
-Randy Munger                      randy.d.munger@aphis.usda.gov            Fed
-Shane Linke                       Shane.g.linke@aphis.usda.gov             Fed
-Sunny Geiser-Novotny              sunny.geiser-novotny@usda.gov            Fed
-Susan Culp                        sculp@me.com                             Other
-John Conlon                       jconlon@verticon.com                     Other
-Ryan Scholz                       rscholz@oda.state.or.us                  State/CVI Vendor
-Scott Rydberg                     scott@rivercitydata.com                  CVI Vendor
-Scott Leibsle                     scott.leibsle@isda.idaho.gov             State/CVI Vendor
-David Hecimovich                  dhecimovich@agr.wa.gov                   State
-Diane Kitchen                     Diane.Kitchen@fdacs.gov                  State
-Brian McCluskey                   ramepi@rams.colostate.edu                Academic
-Michael Russell                   mrussell@globalvetlink.com               CVI Vendor
-Peter Mundschenk                  drpmundschenk@gmail.com                  Other
-Stacey Schwabenlander             Stacey.schwabenlander@usda.gov           Fed
-Kathy Finnerty                    kfinnerty@tracefirst.com                 DB Vendor
-Giovani Trevisan                  trevisan@iastate.edu                     State
-Rebecca Galvan                    rebecca.galvan@tahc.texas.gov            State
+Membership is managed by the United States Animal Health Association (USAHA). Subcommittee members must be members of the parent committee.
+
+## Check your membership
+
+Log in to your USAHA member profile at [usaha.org/member-profile](https://usaha.org/member-profile/). Your profile lists the committees and subcommittees you are currently enrolled in.
+
+If you don't see a committee you expect, contact the [USAHA office](https://usaha.org).
